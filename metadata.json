@@ -1,0 +1,8 @@
+{
+  "name": "Dino Game",
+  "description": "A classic endless runner dinosaur jumping game with obstacles like cacti and flying dinosaurs.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
